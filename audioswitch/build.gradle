@@ -72,7 +72,7 @@ artifacts {
     archives androidSourcesJar
 }
 
-def audioSwitchGroupId = 'com.twilio'
+def audioSwitchGroupId = 'com.ck'
 def audioSwitchArtifactId = 'audioswitch'
 
 /*
